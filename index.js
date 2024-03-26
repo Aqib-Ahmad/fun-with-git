@@ -3,5 +3,5 @@ function one(){
 }
 
 function one(){
-    console.log('one function');
+    console.log('one function is modified in second function');
 }
