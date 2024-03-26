@@ -10,3 +10,13 @@ function one(){
 function three(){
     console.log('third fun');
 }
+
+function forth (){
+    console.log('forth fun');
+}
+
+
+
+function newBranchAdd (){
+    console.log('newBranchAdd fun');
+}
