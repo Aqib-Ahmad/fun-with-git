@@ -19,4 +19,5 @@ function forth (){
 
 function newBranchAdd (){
     console.log('newBranchAdd fun');
+    console.log('another newBranchAdd fun');
 }
